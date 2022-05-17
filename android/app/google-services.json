@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748248494125",
+    "project_id": "college-management-c8080",
+    "storage_bucket": "college-management-c8080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748248494125:android:0890038d256fffa4cd08a4",
+        "android_client_info": {
+          "package_name": "com.example.college_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748248494125-u0gj715bdpt9mpg9ohkvkq7s22fte6go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkjYgUTluSeZKuX9HJ_5I3aEPdM04Zog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748248494125-u0gj715bdpt9mpg9ohkvkq7s22fte6go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
